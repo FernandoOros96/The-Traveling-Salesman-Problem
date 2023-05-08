@@ -2,7 +2,9 @@
 Calviño, A. (2011). Cooperation in the problems of the traveling salesman (TSP) and vehicle routes (VRP): an overview. Universidad de Santiago de Compostela. http://eio.usc.es/pub/mte/descargas/proyectosfinmaster/proyecto_762.pdf 
 
 Fuentes, A. (n.d.). Traveling Salesman Problem. Universidad Autónoma del Estado de Hidalgo. https://www.uaeh.edu.mx/scige/boletin/tlahuelilpan/n3/e5.html 
-GeeksforGeeks. (2022). Tournament Selection (GA). https://www.geeksforgeeks.org/tournament-selection-ga/ 
+GeeksforGeeks. (2022). 
+
+Tournament Selection (GA). https://www.geeksforgeeks.org/tournament-selection-ga/ 
 
 Mallawaarachchi, V. (2017). Introduction to Genetic Algorithms.  Towards Data Science. https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-codee396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation
 
