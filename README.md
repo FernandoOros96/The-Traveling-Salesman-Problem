@@ -11,6 +11,7 @@ Moctezuma, L. (2016). The traveling salesman problem solved by force, dynamic an
 Serrano, E. (n.d.). The Traveling Salesman Problem. Scribd. https://es.scribd.com/document/166289001/Problema-Del-Agente-Viajero#
 
 Tae, J. (2023). Traveling Salesman Problem with Genetic Algorithms. Jekyll & Minimal Mistakes. https://jaketae.github.io/study/genetic-algorithm/ 
+
 KeepCoding. (2023). What is a genetic algorithm? https://keepcoding.io/blog/que-es-un-algoritmo-genetico/ 
 
 Kuo, M. (2023). Solving The Traveling Salesman Problem For Deliveries. Routific. https://blog.routific.com/blog/travelling-salesman-problem 
