@@ -6,7 +6,7 @@ GeeksforGeeks. (2022).
 
 Tournament Selection (GA). https://www.geeksforgeeks.org/tournament-selection-ga/ 
 
-Mallawaarachchi, V. (2017). Introduction to Genetic Algorithms.  Towards Data Science. https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-codee396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation
+Mallawaarachchi, V. (2017). Introduction to Genetic Algorithms.  Towards Data Science. https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation
 
 Moctezuma, L. (2016). The traveling salesman problem solved by force, dynamic and greedy programming. Benemérita Universidad Autónoma de Puebla. https://es.slideshare.net/luisalfredomoctezumapascual/el-problema-del-agente-viajero-resuelto-por-fuerza-programacin-dinmica-y-voraz 
 
